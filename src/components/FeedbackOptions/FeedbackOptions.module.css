@@ -1,0 +1,13 @@
+.feedback__button {
+  display: inline-block;
+  cursor: pointer;
+  will-change: box-shadow, transform;
+  background: #111111;
+  padding: 0 32px;
+  border-radius: 3px;
+  color: #fff;
+  height: 48px;
+  font-size: 18px;
+  margin: 5px;
+}
+
